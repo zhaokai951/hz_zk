@@ -12,7 +12,7 @@ vi x #打开，保存
 
 cat x #输入信息
 
-rm #删除
+rm #删除 git rm x 然后 git commit
 
 git rm #从git中删除
 
